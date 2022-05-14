@@ -22,6 +22,8 @@
 - 📫 How to reach me **jayda.a.wade@gmail.com**
 
 - ⚡ Fun fact **I love to sing, dance and craft!**
+-   Technical Skills: **Java | Spring Boot**
+                      **DynamoDB | AWS Lambda | API Gateway | Cloudformation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
